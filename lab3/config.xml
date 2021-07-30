@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<tmdat>
+	<xmlfile outputFile="numberName.KNP" inputFile="KNP-173.14.33.58.dat.xml"/>
+	<tmfile outputFile="TMI_name.KNP" inputFile="file.KNP"/>
+</tmdat>
